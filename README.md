@@ -43,5 +43,5 @@ with the features I need or how I need them
 ## Features ?
 
 - [ ] allow to interact with arbitrary plugins/protocols(anvil,dp2p,dex,aave)
-- [ ] social( maybe some integration with contact software or CRM)
+- [ ] social( maybe some integration with an addressbook or CRM)
 - [ ] finance management(maybe to keep track of cashflow)
