@@ -1,6 +1,7 @@
 # Portal
 
-A secure and convenient wallet
+A powerful and convenient wallet. I'm trying to build this mainly out of frustration, there is no wallet
+with the features I need or how I need them
 
 ## Features
 
@@ -12,7 +13,7 @@ A secure and convenient wallet
         I wanna be able to move my assets from one chain to another smoothly
     - create user operations or batch transactions together (e.g., approve and execute a swap in one go)
     - account management
-        - [zkLogin sui](https://sui.io/zklogin) and [zkLogin eth](https://github.com/shield-labs/zklogin)
+        - [zkLogin sui](https://sui.io/zklogin) and [zkLogin eth](https://github.com/shield-labs/zklogin), using secp256r1 to sign with passkeys
         - account recovery
         - flexible security rules(share your account security across trusted devices or individuals)
     - gas abstraction(pay gas with tokens, pay someone else's gas, or have someone else pay yours)
